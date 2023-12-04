@@ -1,0 +1,25 @@
+.containerSmall {
+    width: 700px;
+    margin-bottom: 15px;
+}
+
+.containerContent {
+    display: flex;
+    flex-direction: row;
+}
+
+.smallPhoto > img {
+    width: 200px;
+    min-width: 200px;
+    margin-right: 20px;
+}
+
+.smallTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerCardSeparator {
+    margin-top: 10px;
+}
