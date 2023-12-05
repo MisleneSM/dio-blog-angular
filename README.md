@@ -11,7 +11,7 @@ Desenvolvido por:
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
 * [2. Objetivos de aprendizagem](#2-objetivos-de-aprendizagem)
-* [3. Resultado do Projeto](#3-resultado-final-do-projeto)
+* [3. Resultado do Projeto](#3-resultado-do-projeto)
 * [4. Tecnologias Utilizadas](#4-tecnologias-utilizadas)
 
 ***
