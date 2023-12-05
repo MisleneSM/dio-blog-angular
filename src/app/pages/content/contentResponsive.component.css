@@ -1,0 +1,76 @@
+@media screen and (max-width: 1380px){
+    .containerExtra {
+        display: flex;
+        gap: 250px;
+        margin: 40px 40px;
+        position: relative;
+    }
+
+    .imgTwo {
+        position: relative;
+        left: 150px;
+        top: 0px;
+    }
+    
+    .imgThree {
+        position: relative;
+        left: -120px;
+        top: 0px;
+    }
+}
+
+@media screen and (max-width: 856px){
+    .coverOne > img {
+        width: 450px;
+        min-width: 450px;
+        height: 250px;
+    }
+
+    .description > p {
+        width: 450px;
+    }
+
+    .containerExtra {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .imgTwo {
+        position: relative;
+        left: 0px;
+        height: 250px;
+        width: 200px;
+        min-width: 80px;
+    }
+    
+    .imgThree {
+        width: 200px;
+        min-width: 80px;
+        height: 250px;
+        left: 0px;
+    }
+}
+
+@media screen and (max-width: 580px){
+    .coverOne > img {
+        width: 350px;
+        min-width: 350px;
+        height: 200px;
+    }
+
+    .description > p {
+        width: 350px;
+    }
+
+    .imgTwo {
+        height: 200px;
+        width: 100px;
+        min-width: 80px;
+    }
+    
+    .imgThree {
+        width: 100px;
+        min-width: 80px;
+        height: 200px;
+    }
+}

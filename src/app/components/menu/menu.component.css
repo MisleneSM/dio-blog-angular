@@ -1,9 +1,50 @@
-.containerMenu > ul {
+.containerMenu {
     display: flex;
-    flex-direction: row;
+    width: 100vw;
 }
 
-.containerMenu > ul > li {
+.containerIcon {
+    display: flex;
+    height: 80px;
+    margin-left: 15px;
+}
+
+.containerIcon > img {
+    width: 80px;
+    height: 80px;
+}
+
+.containerElements {
+    display: flex;
+    width: 100vw;
+    justify-content: end;
+    align-items: center;
+}
+
+.containerElements .elements {
+    display: inline-flex;
+    margin-right: 20px;
+}
+
+.elements > li {
     margin-right: 20px;
     list-style: none;
+}
+
+.elements > li > a > img {
+    width: 30px;
+    height: 30px;
+}
+
+@media screen and (max-width: 580px){
+    .containerIcon > img {
+        width: 60px;
+        height: 60px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .elements {
+        margin-top: 15px;
+    }
 }

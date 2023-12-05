@@ -1,0 +1,70 @@
+.containerContent {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.coverOne > img {
+    border: 5px solid grey;
+    border-radius: 10px;
+    width: 500px;
+    min-width: 500px;
+    height: 300px;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+    gap: 15px;
+}
+
+.title > h1 {
+    border-bottom: 2px solid #fff;
+}
+
+.title > a {
+    background-color: blue;
+    width: 80px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.title > a:hover {
+    background-color: yellow;
+    color: #000;
+}
+
+.description {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.description > p {
+    width: 550px;
+    color: rgb(198, 198, 198);
+    margin-top: 5px;
+}
+
+.imgTwo {
+    position: absolute;
+    left: 100px;
+    top: 250px;
+    width: 300px;
+    min-width: 300px;
+    height: 300px;
+}
+
+.imgThree {
+    position: absolute;
+    right: 100px;
+    top: 250px;
+    width: 300px;
+    min-width: 300px;
+    height: 320px;
+}
+

@@ -1,27 +1,52 @@
-# AngularBlog
+<h1 align="center"> BLOG JOGOS </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<div align="center">
 
-## Development server
+Desenvolvido por:
+<br>Mislene Moura - [Linkedin](https://www.linkedin.com/in/mislene-silva-moura-1211531b4//) |
+   [Github](https://github.com/MisleneSM)
+</div>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Índice
 
-## Code scaffolding
+* [1. Resumo do projeto](#1-resumo-do-projeto)
+* [2. Objetivos de aprendizagem](#2-objetivos-de-aprendizagem)
+* [3. Resultado do Projeto](#3-resultado-final-do-projeto)
+* [4. Tecnologias Utilizadas](#4-tecnologias-utilizadas)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+***
 
-## Build
+## 1. Resumo do Projeto🤩
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Desenvolvido um mini projeto de Blog responsivo, tendo como tema os nossos queridos jogos da Nintendo, onde pude aprimorar novos conhecimentos no Framework Angular. Desafio promovido e proposto pela [Dio](https://www.dio.me/) do programa de Bootcamp Desenvolvimento Frontend com Angular - Banco Pan, administrada pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
-## Running unit tests
+Para acessar o resultado do projeto e se aventurar nas descrições dos jogos, basta clicar aqui no [Link]()
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 2. Objetivos de aprendizagem✅
 
-## Running end-to-end tests
+- Angular
+- TypeScript
+- Trabalhando com Web Components no Frontend
+- Introdução ao Ecossistema Angular
+- LifeCycle Hooks
+- Single Page Application
+- Módulos
+- Routing
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 3. Resultado do Projeto📝
 
-## Further help
+##### Desktop
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Desktop](./src/assets/image.png)
+
+![Description](./src/assets/image-1.png)
+
+##### Mobile
+
+![Mobile](./src/assets/image2.png)
+![Description](./src/assets/image3.png)
+
+## 4. Tecnologias Utilizadas✅
+
+<img alt="HTML" height="40"  src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png"> <img alt="CSS" height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-css-style-develop-layout-language-512.png"> <img alt="Angular" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png"> <img alt="TS" height="40" src="https://www.typescripttutorial.net/wp-content/uploads/2020/04/favicon.png">
+<img alt="git" height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"/> <img alt="github" height="40"  src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/github-256.png" /> <img alt="vscode" height="40" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />

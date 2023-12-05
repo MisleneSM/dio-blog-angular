@@ -2,12 +2,12 @@
     <div class="containerContent">
         <div class="smallPhoto">
             <img
-              src="https://cinepop.com.br/wp-content/uploads/2022/05/melhoresfilmesdamarvel2022.jpg"
+              src="{{photo}}"
               alt="Imagem representativa filme Marvel"
             />
         </div>
         <div class="smallTitle">
-            <h1><a href="#">Saiu a nova versão do Angular</a></h1>
+            <h1><a [routerLink]="['content', id]">{{title}}</a></h1>
         </div>
     </div>
     <div class="containerCardSeparator">

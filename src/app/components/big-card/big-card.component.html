@@ -1,25 +1,17 @@
 <section class="containerBigCard">
   <div class="bigCardPhoto">
     <img
-      src="https://miro.medium.com/v2/1*qayGQ8zcSBOjsyNKxEIcMQ.png"
-      alt="Imagem representativa de um gráfico Angular"
-      height="200px"
+      src="{{photoCover}}"
+      alt="Imagem representativa Jogo Mario"
     />
   </div>
   <div class="bigCardTitle">
-    <h1><a href="#">Saiu a nova versão do Angular</a></h1>
+    <h1><a [routerLink]="['content', id]">{{cardTitle}}</a></h1>
   </div>
   <div class="bigCardDescription">
     <p>
-      <a href="#">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-        tincidunt eleifend massa, in pharetra mauris tempus ac. Morbi elit diam,
-        cursus id placerat a, congue in mauris. Praesent nisl sapien, sagittis
-        sed tortor ac, rhoncus scelerisque sapien. Mauris efficitur consectetur
-        metus posuere condimentum. Etiam ac sem in orci rutrum dictum at cursus
-        magna. Sed at tempus lacus. Curabitur semper, lectus eget ullamcorper
-        vehicula, nulla ex tincidunt risus, scelerisque vehicula est magna non
-        dolor. Vestibulum placerat accumsan mollis.
+      <a [routerLink]="['content', id]">
+        {{cardDescription}}
       </a>
     </p>
   </div>
