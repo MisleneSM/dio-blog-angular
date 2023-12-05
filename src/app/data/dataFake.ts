@@ -4,7 +4,7 @@ export const dataFake = [
        "photo": "https://2.bp.blogspot.com/-bWmBhSmhHXc/VbuNzVvK5nI/AAAAAAAAOn4/6-wtd_i-txQ/s1600/capa.jpg",
        "photo2": '../..//src/assets/mario.png',
        "photo3": "../..//src/assets/luigi.png",
-       "title": "JOGO SUPER MARIO",
+       "title": "SUPER MARIO BROS",
        "description": "Super Mario Bros é um jogo de plataforma icônico que segue as aventuras do encanador Mario, que embarca em uma missão para resgatar a Princesa Peach do malvado vilão King Koopa (também conhecido como Bowser). O jogo se passa no fictício Reino dos Cogumelos, e os jogadores percorrem vários mundos, enfrentando obstáculos, inimigos e coletando power-ups ao longo do caminho",
     },
     {
