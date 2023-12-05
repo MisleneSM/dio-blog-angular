@@ -10,7 +10,7 @@ export const dataFake = [
     {
         "id": '2',
         "photo": "https://www.arrobanerd.com.br/wp-content/uploads/2023/06/maxresdefault-27.jpg",
-        "photo2": "../..//src/assets/sonic-left.png",
+        "photo2": 'src/assets/sonic-left.png',
         "photo3": "../..//src/assets/sonic-rigth.png",
         "title": "SONIC SUPERSTARS",
         "description": `A Nintendo e a SEGA anunciaram na Nintendo Direct a chegada de Sonic Superstars para Nintendo Switch, ainda em 2023. Junte-se a Sonic, Tails, Knucles e Amy nessa nova aventura.
