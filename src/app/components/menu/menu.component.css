@@ -37,6 +37,11 @@
 }
 
 @media screen and (max-width: 580px){
+    .containerMenu {
+        position: fixed;
+        top: 0;
+    }
+
     .containerIcon > img {
         width: 60px;
         height: 60px;
