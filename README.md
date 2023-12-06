@@ -18,7 +18,7 @@ Desenvolvido por:
 
 ## 1. Resumo do Projeto🤩
 
-Desenvolvido um mini projeto de Blog responsivo, tendo como tema os nossos queridos jogos da Nintendo, onde pude aprimorar novos conhecimentos no Framework Angular. Desafio promovido e proposto pela [Dio](https://www.dio.me/) do programa de Bootcamp Desenvolvimento Frontend com Angular - Banco Pan, administrada pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Desenvolvido um mini projeto de Blog responsivo, tendo como tema os nossos queridos jogos da Nintendo, onde pude aprimorar novos conhecimentos do Framework Angular. Desafio promovido e proposto pela [Dio](https://www.dio.me/) do programa do Bootcamp Desenvolvimento Frontend com Angular - Banco Pan, administrada pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 Para acessar o resultado do projeto e se aventurar nas descrições dos jogos, basta clicar aqui no [Link](https://angular-blog-gold.vercel.app/)
 
