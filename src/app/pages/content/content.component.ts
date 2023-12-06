@@ -8,12 +8,12 @@ import { dataFake } from 'src/app/data/dataFake';
   styleUrls: ['./content.component.css', './contentResponsive.component.css']
 })
 export class ContentComponent implements OnInit {
+  private id:string | null = '0'
   photo:string = ''
   photo2: string =''
   photo3: string = ''
   title:string = ''
   description = ''
-  private id:string | null = '0'
 
   constructor(
     private route:ActivatedRoute
@@ -29,11 +29,10 @@ export class ContentComponent implements OnInit {
   setValuesToComponent(id:string | null){
     const result = dataFake.filter(article => article.id == id)[0]
 
+    this.photo = result.photo
     this.title = result.title
     this.description = result.description
-    this.photo = result.photo
     this.photo2 = result.photo2
     this.photo3 = result.photo3
   }
-
 }
